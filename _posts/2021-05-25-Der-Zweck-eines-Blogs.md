@@ -5,6 +5,7 @@ author: Sebastian
 date:   2021-05-25 
 categories: Allgemein
 image: /assets/images/books.jpg
+description: In diesem Beitrag möchte ich ein wenig darüber schreiben, wieso gerade ich einen Blog eingerichtet habe und wieso ich der Meinung bin, dass jeder sich einen erstellen sollte.
 ---
 
 

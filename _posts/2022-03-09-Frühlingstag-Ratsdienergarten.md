@@ -5,7 +5,7 @@ author: Sebastian
 date:   2022.03.09
 categories: Poesie
 image: /assets/images/rats.jpg
-description: Etwas für die Genießer
+description: Es sind die Unterhaltungen in der Ferne...
 ---
 
 ![]({{page.image | relative_url}})

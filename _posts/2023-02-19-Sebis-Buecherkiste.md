@@ -3,9 +3,9 @@ layout: post
 title:  Sebis Bücherliste
 author: Sebastian
 date:   2023.02.19
-categories: Poesie
+categories: Beitrag
 image: /assets/images/buecherkiste.jpg
-description: Sebis kleine Bücherkiste (:
+description: Sebis kleine Bücherkiste
 ---
 
 ![]({{page.image | relative_url}})
@@ -24,7 +24,8 @@ description: Sebis kleine Bücherkiste (:
 * Hohlbein, Wolfgang-Der Hexer - Folge 1-4
 * Clarke, Susanna-Piranesi
 * Balzano, Marco-Damals, am Meer
-* Haig, Matt-Ziemlich gute Gründe, am Leben zu bleibenBardugo, Leigh-Shadow and Bone
+* Haig, Matt-Ziemlich gute Gründe, am Leben zu bleiben
+* Bardugo, Leigh-Shadow and Bone
           (The Shadow and Bone Trilogy, #1)
 * Schröder, Alena-Junge Frau, am Fenster stehend, Abendlicht, blaues Kleid
 * Zeh, Juli-Über Menschen

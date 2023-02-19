@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title:  Sebis Bücherliste
@@ -10,7 +9,6 @@ description: Sebis kleine Bücherkiste (:
 ---
 
 ![]({{page.image | relative_url}})
-```
 
 * Stroud, Jonathan-Das grauenvolle Grab
           (Lockwood & Co., #5)

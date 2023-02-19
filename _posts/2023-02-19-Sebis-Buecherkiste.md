@@ -1,11 +1,11 @@
-```markdown
+```yaml
 ---
 layout: post
 title:  Sebis Bücherliste
 author: Sebastian
 date:   2023.02.19
 categories: Poesie
-image: /assets/images/.jpg
+image: /assets/images/buecherkiste.jpg
 description: Sebis kleine Bücherkiste (:
 ---
 

@@ -10,6 +10,8 @@ description: Sebis kleine Bücherkiste
 
 ![]({{page.image | relative_url}})
 
+Hey, hier im Anhang findet ihr einige meiner zuletzt gelesenen Bücher. Ich möchte ein Programm entwickeln, um in Zukunft diese Liste automatisch zu aktualisieren. Wenn das geklappt hat, werde ich den Prozess und den Code veröffentlichen, falls das Interesse besteht. Hier in der Liste sind nur meine 40 letzen Bücher vorzufinden, die ich gelesen habe. Der Plan ist irgendwann alle aufzulisten, aufgeteilt in Jahren. 
+
 * Stroud, Jonathan-Das grauenvolle Grab
           (Lockwood & Co., #5)
 * Stroud, Jonathan-The Creeping Shadow

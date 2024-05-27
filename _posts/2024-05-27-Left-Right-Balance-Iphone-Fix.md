@@ -2,7 +2,7 @@
 layout: post
 title: Iphone Left-Right-Balance fixen
 author: Sebastian
-date: 2023.02.19
+date: 2024.05.27
 categories: Beitrag
 image: /assets/images/shortcuts.jpg
 description:
@@ -14,7 +14,7 @@ description:
 
 ### Einleitung
 
-Hast du jemals bemerkt, dass die Audio-Balance auf deinem iPhone nicht optimal ist, wenn du deine Bluetooth-Kopfhörer verbindest? Wenn ja, dann ist dieser Artikel genau das Richtige für dich! Hier zeigen wir dir, wie du einen Shortcut erstellst, der die Left-Right-Balance deines Gerätes automatisch anpasst, sobald du deine Bluetooth-Kopfhörer verbindest.
+Kennst du das, du verbindest dich mit deinen Bluetooth-Kopfhörern und deine Left-Right-Balance scheint irgendwie etwas off zu sein? Ich zumindest habe das Problem mit einen meiner Kopfhörer und habe ChatGPT um Hilfe gebeten. Der ChatBot ist mit folgender Lösung gekommen, die bei mir tatsächlich ziemlich gut funktioniert.
 
 ### Voraussetzungen
 
@@ -58,6 +58,4 @@ Klicke auf „Aktion hinzufügen“, dann auf „Shortcuts“ und wähle den zuv
 
 Klicke auf „Weiter“ und dann auf „Fertig“, um die Automatisierung zu speichern.
 
-### Fazit
-
-Mit diesen einfachen Schritten kannst du sicherstellen, dass die Audio-Balance deines iPhones jedes Mal automatisch angepasst wird, wenn du deine Bluetooth-Kopfhörer verbindest. Dies verbessert nicht nur dein Hörerlebnis, sondern spart dir auch Zeit und Aufwand.
+Das Selbe habe ich dann nochmal für den Fall getan, falls ich mich wieder von dem Gerät trenne. Für mich hat das Ganze ziemlich gut funktioniert und vielleicht hilft es dir ja auch weiter.
